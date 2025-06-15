@@ -6,7 +6,6 @@ Bajillion Search Engine is a simple web app that allows users to search for news
 ## Table of Contents
 - [Overview](#Overview)
 - [About This Project](#About_This_Project)
-- 
 - [Dataset Used](#Dataset_Used)
 - [Features](#Features)
 - [Screenshot](#Screenshot)
@@ -26,6 +25,9 @@ This project fetches live data from:
 - No local dataset is stored; all data is fetched dynamically based on user input.
 
 ## Screenshot
+![1.](images/Screenshot%202025-06-15%20at%2010.45.04 PM.png)
+![2.](images/Screenshot%202025-06-15%20at%2010.45.13 PM.png)
+![3.](images/Screenshot%202025-06-15%20at%2010.45.22 PM.png)
 
 
 ## Features
