@@ -59,7 +59,7 @@ Install dependencies via:
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-This project was developed as part of Stanford University's Code in Place 2024 program.
+This project was developed as part of Stanford University's Code in Place 2025 program.
 I'm incredibly grateful to the instructors, section leaders, and the amazing community for making this learning experience fun and supportive.
 
 Special thanks to:
