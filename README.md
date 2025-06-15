@@ -6,8 +6,10 @@ Bajillion Search Engine is a simple web app that allows users to search for news
 ## Table of Contents
 - [Overview](#Overview)
 - [About This Project](#About_This_Project)
+- 
 - [Dataset Used](#Dataset_Used)
 - [Features](#Features)
+- [Screenshot](#Screenshot)
 - [Usage](#Usage)
 - [Requirements](#Requirements)
 - [License](#License)
@@ -22,6 +24,9 @@ This project fetches live data from:
 - The New York Times Article Search API
 - The Guardian Content API
 - No local dataset is stored; all data is fetched dynamically based on user input.
+
+## Screenshot
+
 
 ## Features
 
