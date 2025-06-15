@@ -58,3 +58,11 @@ Install dependencies via:
 ## License
 This project is licensed under the MIT License.
 
+## Acknowledgements
+This project was developed as part of Stanford University's Code in Place 2024 program.
+I'm incredibly grateful to the instructors, section leaders, and the amazing community for making this learning experience fun and supportive.
+
+Special thanks to:
+The New York Times and The Guardian their accessible APIs for real-time news data.
+
+Looking forward to building more and learning along the way!
